@@ -54,4 +54,4 @@ if __name__ == '__main__':
         x += 1
 
     
-    img.save("c:\\test\\test.bmp")
+    img.save("render.bmp")
